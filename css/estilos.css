@@ -1,0 +1,35 @@
+body {
+  align-items: center;
+  background: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: sans-serif;
+  color: #fff;
+
+}
+
+h1 {
+  color: black;
+}
+
+table{
+  text-align: center;
+  background-color: #666;
+}
+
+td{
+  width: 150px;
+}
+
+.tecla {
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+  height: 100%;
+  font-size: 1.75em;
+  text-align: center;
+  width: 130px;
+}
+
+
