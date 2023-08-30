@@ -1,5 +1,7 @@
 # Descrição
-Trata-se de uma tabela, criada com HTML, CSS e JS, que informa quais são as vogais orais tônicas do português brasileiro.
+Trata-se de uma tabela, criada com HTML, CSS e JS, que informa quais são as vogais orais tônicas do português brasileiro. 
+
+Os sons da tabela podem ser acionados quando clicados ou pressionados pelas teclas A [a], E [e], R [ɛ], I [i], O [o], P [ɔ] e U [u]. 
 
 Pode parecer algo aleatório, mas tenho a pretensão de criar sistemas de informação relacionados à Gramática/Linguística no futuro. Isso que eu fiz foi só uma "brincadeirinha" inicial. E haverá outras.
 
